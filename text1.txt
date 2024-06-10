@@ -1,1 +1,4 @@
 text1
+commit1
+changedtext1
+changedtext2
